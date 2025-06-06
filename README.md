@@ -87,9 +87,13 @@ Conclusion
 Setting up ProtonVPN has provided valuable insight into the importance of VPNs for privacy and secure communication. Although they are effective tools for protecting user data, it’s essential to combine them with other security measures, such as using strong passwords and being cautious with browser extensions, to maintain a high level of online safety.
 
 before connecting to vpn
+
+
 ![Screenshot 2025-06-06 161743](https://github.com/user-attachments/assets/0903ec20-8ece-453c-becf-c66f7cc91cab)
 
 after connecting to vpn
+
+
 ![Screenshot 2025-06-06 163114](https://github.com/user-attachments/assets/6751b3d3-fd59-40c9-b3f1-a2a8477cb044)
 
 
